@@ -1,0 +1,6 @@
+{
+  "name": "SMS Spam Detection Studio",
+  "description": "A beginner-friendly Machine Learning workbench for local SMS Spam Classification using TF-IDF and Naive Bayes with Python code generation and live interactive model testing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
